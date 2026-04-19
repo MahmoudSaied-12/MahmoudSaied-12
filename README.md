@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Saied</h1>
 <h3 align="center">Business Intelligence Developer|| Data Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/MahmoudSaied-12?tab=repositories](https://github.com/MahmoudSaied-12?tab=repositories)
+- 👨‍💻  my projects are available at [https://github.com/MahmoudSaied-12?tab=repositories](https://github.com/MahmoudSaied-12?tab=repositories)
 
 - 📫 How to reach me **mahmoudsaaid96@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1E7J3Puov6qIwgE3WBq65fwyEHMd8h9XE/view?usp=drive_link](https://drive.google.com/file/d/1E7J3Puov6qIwgE3WBq65fwyEHMd8h9XE/view?usp=drive_link)
+
 
 
 - ⚡ Fun fact **playing with data and beyond🎯.**
