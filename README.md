@@ -11,31 +11,9 @@
 
 - ⚡ Fun fact **playing with data and beyond🎯.**
 
-<h3 align="left">🧰 Languages and Tools:</h3> <p align="left">
+<h3 align="left">🧰 Languages and Tools:</h3>
 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql-server" width="40" height="40"/> </a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-
-<a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbt/dbt-original.svg" alt="dbt" width="40" height="40"/> </a>
-
-<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="40" height="40"/> </a>
-
-<a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/snowflake/snowflake-original.svg" alt="snowflake" width="40" height="40"/> </a>
-
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="power-bi" width="40" height="40"/> </a>
-
-<a href="https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssis/ssis-original.svg" alt="ssis" width="40" height="40"/> </a>
-
-</p>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql-server" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/dbt/FF694B" alt="dbt" width="40" height="40"/></a> <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/apacheairflow/017CEE" alt="airflow" width="40" height="40"/></a> <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" alt="snowflake" width="40" height="40"/></a> <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="power-bi" width="40" height="40"/></a> </p>
 
 Experienced: Python, SQL, SQL Server,Excel, MySQL,dbt,Airflow,Pandas,Spark Power BI, Excel,Data warehouse, Data Modeling, Data mining,
 
